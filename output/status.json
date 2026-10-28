@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-10-28T13:09:39.664460+00:00",
+  "updated_at_utc": "2026-10-28T22:41:07.995579+00:00",
   "source": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt",
-  "nodes": 1778,
+  "nodes": 1746,
   "validation": "URI scheme and minimum-count validation only; upstream performs its own connectivity tests",
   "warning": "Public third-party nodes; not a private VPN server; no guarantee of availability or censorship resistance"
 }
